@@ -1,4 +1,5 @@
 ## Hi there 👋
+### I am Rupam Maiti, UG1 CSE from Jadavpur University, Kolkata
 
 <!--
 **MonoNeon/MonoNeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
